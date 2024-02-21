@@ -681,3 +681,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 387f7fb4715f2144896aa785ade99094, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  attackCooldown: 1
